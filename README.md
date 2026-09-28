@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shaurya 👋
 
-<!--
-**SJ-cd/SJ-cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**First-Year B.Tech CSE Student | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm passionate about **software development, problem-solving, and building projects** while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently Learning
+- C/C++
+- Python
+- Data Structures & Algorithms
+- Web Development
+
+**Always learning. Always building.**
+
