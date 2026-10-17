@@ -1,4 +1,4 @@
-# Hi, I'm Shaurya 👋
+# Hi, I'm S7👋
 
 **B.Tech CSE Student | Aspiring Software Developer**
 
